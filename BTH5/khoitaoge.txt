@@ -1,0 +1,39 @@
+{
+  "path": "D:\ocrkt\exampng",
+  "chat_history": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "file_data": {
+            "mime_type": "image/png",
+            "file_uri": "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision/uploads/1234567890abcdef"
+          }
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        "trangSo: 09\nnguoiKy: Hoàng Xuân Thủy\nchucVuNguoiKy: Phó Chủ tịch UBND Xã\nnguoiThucHien: Đỗ Thị Mai Trang\nnksHoTen: Lưu Ngọc Tuấn\nnksNgaySinh: 19.01.1985\nnksNoiSinh: Lạc Nghiệp, Phước Diêm, Thuận Nam, Ninh Thuận\nnksQueQuan: Lạc Nghiệp, Phước Diêm, Thuận Nam, Ninh Thuận\nnksDanToc: Kinh\nnksSoDinhDanhCaNhan: \nmeHoTen: Nguyễn Thị Sanh\nmeNgaySinh: 1957\nmeDanToc: Kinh\nmeNoiCuTru: Lạc Tiến, Phước Minh, Thuận Nam, Ninh Thuận\nmeSoGiayToTuyThan: 264210067\nchaHoTen: Lưu Văn Hường (đã chết)\nchaNgaySinh: 1954\nchaDanToc: Kinh\nchaNoiCuTru: \nchaSoGiayToTuyThan: \nnycHoTen: Lưu Ngọc Tuấn\nnycSoGiayToTuyThan: \nnycNgayCapGiayToTuyThan: \nnycNoiCapGiayToTuyThan:"
+      ]
+    },
+    {
+      "role": "user",
+      "parts": [
+        {
+          "file_data": {
+            "mime_type": "image/png",
+            "file_uri": "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro-vision/uploads/fedcba0987654321"
+          }
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        "trangSo: 15\nnguoiKy: Hoàng Xuân Thủy\nchucVuNguoiKy: Phó Chủ tịch UBND Xã\nnguoiThucHien: Đỗ Thị Mai Trang\nnksHoTen: NGUYÊN THỊ THÙY DUNG\nnksNgaySinh: 02.4.1989\nnksNoiSinh: Phước Diêm, Thuận Nam, Ninh Thuận\nnksQueQuan: Phước Diêm, Thuận Nam, Ninh Thuận\nnksDanToc: Kinh\nnksSoDinhDanhCaNhan: \nmeHoTen: Trinh Thị Bến\nmeNgaySinh: 1954\nmeDanToc: Kinh\nmeNoiCuTru: Lạc Tiến, Phước Minh, Thuận Nam, Ninh Thuận\nmeSoGiayToTuyThan: 264283368\nchaHoTen: Nguyễn Văn Hay\nchaNgaySinh: 1949\nchaDanToc: Kinh\nchaNoiCuTru: Phước Diêm, Thuận Nam, Ninh Thuận\nchaSoGiayToTuyThan: \nnycHoTen: NGUYÊN THỊ THÙY DUNG\nnycSoGiayToTuyThan: \nnycNgayCapGiayToTuyThan: \nnycNoiCapGiayToTuyThan:"
+      ]
+    }
+  ]
+}
